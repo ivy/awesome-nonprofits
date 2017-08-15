@@ -1,4 +1,4 @@
-![Awesome Grants, Resources, and Discounts for Nonprofits](assets/banner.jpg)
+[![Awesome Grants, Resources, and Discounts for Nonprofits](assets/banner.jpg)](https://github.com/ivy/awesome-nonprofits#readme)
 
 Photo: [401kCalculator.org](http://401kcalculator.org), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
